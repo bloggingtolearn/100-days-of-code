@@ -1,30 +1,15 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - 2020 Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 29, Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked this repository and created (additional) accountability plan for 100DaysOfCode - I'll be blogging about my progress at [blogtolearn.dev](blogtolearn.dev). Spent part of the day preparing for that process: briefly researching tech stacks, setting up dev environment on desktop (mac Mini running OS X Catalina) and laptop (Dell XPS 15 running Pop!\_OS 20.04), and playing around with the setup I'll be using to start blogging. I already had the blogtolearn.dev domain name, but changed the DNS records to prepare for deployment to the hosting provider tomorrow.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: After doing some relatively quick research, I decided to create blogtolearn.dev using [11ty](https://github.com/11ty/eleventy), a Node-based, framework-agnostic static site generator which will allow me to create new blog posts simply by adding markdown files to a directory, hosted on Netlify. I chose 11ty (alt="eleventy") because I wanted to stay away from frameworks (for the time being), despite the relative abundance of popular options available, for the sake of simplicity. They also have a fantastic logo/mascot. [1] I still need to figure out what template language I'll be using, given the variety of choices they support, but that decision should be fairly insignificant for my simple use-case.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: No work to link to yet, but here are some eleventy resources that I looked/worked through today:
+- [Starter Projects from 11ty's Docs](https://www.11ty.dev/docs/starter/)
+- [A basic 11ty blog tutorial](https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/#creating-the-homepage) that I went through.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+1. Eleventy's majestic spirit creature:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+![Image of eleventy's possum-ballon logo](https://www.11ty.dev/img/possum.jpg)
