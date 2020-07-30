@@ -10,6 +10,7 @@
 - [Starter Projects from 11ty's Docs](https://www.11ty.dev/docs/starter/)
 - [A basic 11ty blog tutorial](https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/#creating-the-homepage) that I went through.
 
-1. Eleventy's majestic spirit creature:
+
+###### 1. Eleventy's majestic spirit creature:
 
 ![Image of eleventy's possum-ballon logo](https://www.11ty.dev/img/possum.jpg)
