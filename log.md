@@ -7,8 +7,8 @@
 **Thoughts**: After doing some relatively quick research, I decided to create blogtolearn.dev using [11ty](https://github.com/11ty/eleventy), a Node-based, framework-agnostic static site generator which will allow me to create new blog posts simply by adding markdown files to a directory, hosted on Netlify. I chose 11ty (alt="eleventy") because I wanted to stay away from frameworks (for the time being), despite the relative abundance of popular options available, for the sake of simplicity. They also have a fantastic logo/mascot. [1] I still need to figure out what template language I'll be using, given the variety of choices they support, but that decision should be fairly insignificant for my simple use-case.
 
 **Link(s) to work**: No work to link to yet, but here are some eleventy resources that I looked/worked through today:
-- [Starter Projects from 11ty's Docs](https://www.11ty.dev/docs/starter/)
-- [A basic 11ty blog tutorial](https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/#creating-the-homepage) that I went through.
+- [Starter Projects](https://www.11ty.dev/docs/starter/) from 11ty's Docs
+- A basic [11ty blog tutorial](https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/#creating-the-homepage) that I went through.
 
 
 ###### 1. Eleventy's majestic spirit creature:
