@@ -25,4 +25,4 @@
 
 **Link(s) to work**:
 1. Basic blog design [on CodePen](https://codepen.io/bloggingtolearn/pen/pogXBKP)
-2. ![bloggingtolearn.dev](www.bloggingtolearn.dev)
+2. [bloggingtolearn.dev]: www.bloggingtolearn.dev
