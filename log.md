@@ -19,9 +19,10 @@
 
 ### Day 1: July 30, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Build & deployed blog with 11ty & Netlify
 
-**Thoughts**:
+**Thoughts**: See Day 1 blog post
 
 **Link(s) to work**:
 1. Basic blog design [on CodePen](https://codepen.io/bloggingtolearn/pen/pogXBKP)
+2. [Blog](www.bloggingtolearn.dev)
