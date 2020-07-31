@@ -24,3 +24,4 @@
 **Thoughts**:
 
 **Link(s) to work**:
+1. Basic blog design [on CodePen](https://codepen.io/bloggingtolearn/pen/pogXBKP)
