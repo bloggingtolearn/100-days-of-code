@@ -24,5 +24,5 @@
 **Thoughts**: See Day 1 blog post
 
 **Link(s) to work**:
-1. Basic blog design [on CodePen]: https://codepen.io/bloggingtolearn/pen/pogXBKP
-2. [Blog]: www.bloggingtolearn.dev
+1. Basic blog design [on CodePen](https://codepen.io/bloggingtolearn/pen/pogXBKP)
+2. [Blog](https://www.bloggingtolearn.dev)
