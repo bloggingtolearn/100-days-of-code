@@ -28,3 +28,13 @@
 2. [Blog](https://www.bloggingtolearn.dev)
 
 ***
+
+
+### Day 2: July 31, Friday
+
+**Today's Progress**: Refactored bloggingtolearn.dev's CSS & added media queries
+
+**Thoughts**: See Day 2 blog post
+
+**Link(s) to work**:
+1. [Blog](https://www.bloggingtolearn.dev) 
