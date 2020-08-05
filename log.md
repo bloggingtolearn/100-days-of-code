@@ -29,7 +29,6 @@
 
 ***
 
-
 ### Day 2: July 31, Friday
 
 **Today's Progress**: Refactored bloggingtolearn.dev's CSS & added media queries
@@ -38,3 +37,16 @@
 
 **Link(s) to work**:
 1. [Blog](https://www.bloggingtolearn.dev) 
+
+***
+
+### Day 3: August 2, Monday
+
+**Today's Progress**: Set up Linode "linode" with LAMP stack to host basic site with PHP
+
+**Thoughts**: See Day 3 blog post
+
+**Link(s) to work**:
+1. [Day 3 Blog Post](https://www.bloggingtolearn.dev/posts/2020/2020-08-03/)
+
+***
