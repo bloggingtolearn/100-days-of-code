@@ -50,3 +50,11 @@
 1. [Day 3 Blog Post](https://www.bloggingtolearn.dev/posts/2020/2020-08-03/)
 
 ***
+
+### Day 4: August 3rd, Tuesday
+
+**Today's Progress**: Worked on PHP & MySQL
+
+**Thoughts**: I'll add details to blog post tomorrow.
+
+**Link(s) to work**: n/a
